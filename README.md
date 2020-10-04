@@ -71,7 +71,7 @@ types of attributes and a general idea of likely challenges in the dataset. Ment
 3. Using univariate & bivariate analysis to check the individual attributes for their basic statistics such as central values, spread, tails, relationships between variables etc. mention your observations
 4. Split the dataset into training and test set in the ratio of 70:30 (Training:Test)
 5. Prepare the data for training - Scale the data if necessary, get rid of missing values (if any) etc
-6. Train at least 3 standard classification algorithms - Logistic Regression, Naive Bayes’, SVM, k-NN etc, and note down their accuracies on the test data (10 points)
+6. Train at least 3 standard classification algorithms - Logistic Regression, Naive Bayes’, SVM, k-NN etc, and note down their accuracies on the test data
 7. Train a meta-classifier and note the accuracy on test data
 8. Train at least one standard Ensemble model - Random forest, Bagging, Boosting etc, and note the accuracy
 9. Compare all the models (minimum 5) and pick the best one among them 
