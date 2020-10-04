@@ -52,7 +52,9 @@ DFA - (Detrended Fluctuation Analysis) Signal fractal scaling exponent
 spread1, spread2 - Two nonlinear measures of fundamental frequency variation
 
 PPE - (Pitch Period Entropy) nonlinear measures of fundamental frequency variation
+
 Learning Outcomes:
+
 ● Exploratory Data Analysis
 
 ● Supervised Learning
